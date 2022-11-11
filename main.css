@@ -74,10 +74,10 @@ p.demos {
 }
 @keyframes Frame-1 {
   0% {
-    color: red;
+    color: #ea384d;
   }
   50% {
-    color: red;
+    color: #ea384d;
   }
   100% {
     color: transparent;
@@ -85,10 +85,10 @@ p.demos {
 }
 @keyframes Frame-2 {
   150% {
-    color: blue;
+    color: #ea384d;
   }
   50% {
-    color: blue;
+    color: #ea384d;
   }
   100% {
     color: transparent;
@@ -103,10 +103,10 @@ p.demos {
 }
 @keyframes Frame-3 {
   150% {
-    color: yellow;
+    color: #ea384d;
   }
   50% {
-    color: yellow;
+    color: #ea384d;
   }
   100% {
     color: transparent;
@@ -121,10 +121,10 @@ p.demos {
 }
 @keyframes Frame-4 {
   150% {
-    color: green;
+    color: #ea384d;
   }
   50% {
-    color: green;
+    color: #ea384d;
   }
   100% {
     color: transparent;
@@ -153,7 +153,7 @@ p.demos {
   animation: blurFadeIn 3s ease-in 12s backwards;
   color: transparent;
   text-shadow: 0px 0px 1px rgb(255, 255, 255);
-  color: aqua;
+  color: #b31217;
 }
 
 .sp-container h2.frame-5 span:nth-child(2) {
